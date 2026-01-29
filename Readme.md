@@ -22,13 +22,20 @@ Tools and libraries required
 Run following commands in your terminal
             ⬇️
 Create virtual environment :
+
+
 Syntax: python -m venv venv
 
+
 Then activate : 
+
 Syntax(window) : .\venv\Scripts\Activate 
+
 Syntax(Mac) : source venv/bin/activate
 
+
 Install libraries : 
+
 Syntax : pip install -r requirenment.txt
 
 
@@ -52,5 +59,3 @@ i use this model in my main.py file and deploy with the help of streamlit
 
 
 
-
-pip install -r requirements.txt
